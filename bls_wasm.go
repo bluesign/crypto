@@ -96,6 +96,5 @@ func (pk *pubKeyBLSBLS12381) String() string {
 }
 
 func initBLS12381() {
-	panic("no bls for wasm")
 
 }
