@@ -1,3 +1,5 @@
+//go:build !js
+
 /*
  * Flow Crypto
  *
